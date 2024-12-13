@@ -110,8 +110,9 @@ GROUP BY user_id
 ORDER BY tweet_count DESC
 LIMIT 10;
 ```
+### 10. Data visualization in PowerBi
 
-
+![PowerBi](https://github.com/user-attachments/assets/268e136a-57c9-4188-8661-3de0ee0e8004)
 
 
 
